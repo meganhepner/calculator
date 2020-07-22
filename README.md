@@ -5,7 +5,7 @@
 #### By _**Megan Hepner**_
 
 ## Description
-  This is the JavaScript code for a simple caculator that can add, subtract, multiply, and divide. It does not include a user interface for the calculator.
+  This is the JavaScript code for a simple calculator that can add, subtract, multiply, and divide. It does not include a user interface for the calculator.
 
 
 ## Setup/Installation Requirements
